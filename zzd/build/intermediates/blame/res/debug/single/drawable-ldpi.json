@@ -1,0 +1,1762 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_play_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_play_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\failure_server.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\failure_server.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_back_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_back_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add3_button_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add3_button_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\collect_loading.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\collect_loading.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\up_twinkle.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\up_twinkle.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_unvoice_btn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_unvoice_btn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\timeline_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\timeline_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_cut_disable.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_cut_disable.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_shoping.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_shoping.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_offline.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_offline.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_pic_4_dvr.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_pic_4_dvr.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\connect_wifi4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\connect_wifi4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\wifi_config_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\wifi_config_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_full_down.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_full_down.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video_record.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video_record.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_recording.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_recording.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add_button_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add_button_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_turn.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_turn.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\shrink_screen_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\shrink_screen_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_flunet.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_flunet.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\capture_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\capture_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\camera_list_item.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\camera_list_item.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\success_img.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\success_img.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\link_account1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\link_account1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\remote_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\remote_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_balanced_disabel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_balanced_disabel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\video_camera1_1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\video_camera1_1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\query_loding3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\query_loding3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\right_twinkle.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\right_twinkle.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_multiple5.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_multiple5.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\reset_deivce.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\reset_deivce.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\success.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\success.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search_bnt_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\search_bnt_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\pause_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\pause_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_voice_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_voice_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\put_ico.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\put_ico.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_c1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_c1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_setup_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_setup_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_collect.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_collect.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\yxs_head.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\yxs_head.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_turn_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_turn_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\previously_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\previously_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_stop.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_stop.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\offline.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\offline.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_down_ico.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_down_ico.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_add_success_2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_add_success_2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\select_icon.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\select_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add_camera_button_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add_camera_button_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\leave_message_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\leave_message_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\say_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\say_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\code.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\code.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_callhelp.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_callhelp.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_loading_3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\logo_loading_3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_refresh.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_refresh.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\server4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\server4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\back_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\back_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_confirm.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_confirm.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_on_sel_blue.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_on_sel_blue.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_play_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_play_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_move_magnetometer.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_move_magnetometer.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_unvoice_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_unvoice_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_full_up.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_full_up.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\flashlight_closed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\flashlight_closed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_cancel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_cancel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_big.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_big.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_close.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_close.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\amplify_screen_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\amplify_screen_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_loading_4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\logo_loading_4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\left_horizontal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\left_horizontal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\query_loding4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\query_loding4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\no_read.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\no_read.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\setup.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\setup.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_button_red_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_button_red_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playbackslider.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playbackslider.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\goback.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\goback.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\water_alarm.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\water_alarm.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\connect_wifi3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\connect_wifi3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\right_horizontal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\right_horizontal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_more_up1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_more_up1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_bottom_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_bottom_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_wifi2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_wifi2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\shrink_screen_pressed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\shrink_screen_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_add.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_add.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_source.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_source.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_x2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_x2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_previously_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_previously_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_video_now.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_video_now.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add_button_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add_button_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_source_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_source_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_button_blue_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_button_blue_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_stop.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_stop.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_replay.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_replay.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_down_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\title_down_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_talkback_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_talkback_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_x3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_x3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stop_disable.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\stop_disable.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stop_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\stop_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_h2s.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_h2s.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_pic_8_16_dvr.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_pic_8_16_dvr.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\capture_disable.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\capture_disable.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_alarm_icon2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_alarm_icon2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\history_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\history_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\goback_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\goback_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_cicle_120.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_cicle_120.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\load_failed_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\load_failed_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\link_account4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\link_account4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_ipc_dome.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_ipc_dome.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_right_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_right_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_stopplay_btn_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_stopplay_btn_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\link_account2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\link_account2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_video_selection_hover.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_video_selection_hover.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_speech.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_speech.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_pic_8_16_nvr.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_pic_8_16_nvr.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\connect_wifi1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\connect_wifi1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_refresh.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_refresh.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_share.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_share.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_vertical_more_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_vertical_more_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\graybtn_press.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\graybtn_press.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_big_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_big_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\timeline.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\timeline.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\gohead_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\gohead_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_5.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_5.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\unchecked.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_retry.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_retry.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\arrow_next.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\arrow_next.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_recording_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_recording_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_hd.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_hd.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playbackslider_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playbackslider_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\success_icon.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\success_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_ptz.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_ptz.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_input.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_input.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\graybtn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\graybtn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_multiple2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_multiple2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\del_button_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\del_button_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\flashlight.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\flashlight.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\no_message.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\no_message.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_small.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_small.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\user.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\leave_message_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\leave_message_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\arrow_down.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exit.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\exit.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_more_down1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_more_down1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_loading_2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\logo_loading_2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\waiting_progressbar_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\waiting_progressbar_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_8.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_8.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\login_logo_button_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\login_logo_button_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_hd_disabel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_hd_disabel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\h_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\h_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_r1_retry_normal.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_r1_retry_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_cicle_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_cicle_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\server3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\server3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\name_del_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\name_del_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\pic_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\pic_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\push_close_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\push_close_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\capture.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\capture.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\server1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\server1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_talk_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_talk_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nomessage.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\nomessage.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\up_horizontal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\up_horizontal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_up_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_up_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_confirm_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_confirm_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_cancel_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_cancel_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\query_loding2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\query_loding2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\download8.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\download8.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_button.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_button.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add3_button.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add3_button.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_button_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_button_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video_start.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video_start.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\selected_icon.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\selected_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_cover.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_cover.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_video_now_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_video_now_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\yuntai_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\yuntai_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_down_bg_pressed.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_down_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_video_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_video_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_c1_rotate.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_c1_rotate.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_voice_btn_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_voice_btn_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_vertical_more_dark_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_vertical_more_dark_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_pause.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_pause.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\face_image3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\face_image3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_previously_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_previously_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_wait1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_wait1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_on_blue.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_on_blue.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_voice_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_voice_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_f1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_f1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_door.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_door.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stoplay_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\stoplay_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\horizontal_shrink_screen_pressed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\horizontal_shrink_screen_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_ptz_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_ptz_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_play_btn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_play_btn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\video_file_watermark.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\video_file_watermark.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\videogo_icon.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\videogo_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_selection_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_selection_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\control_bar_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\control_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_date_down.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_date_down.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_smoke.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_smoke.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_left_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_left_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_on.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_on.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\setup_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\setup_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_r2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_r2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_button_bule.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_button_bule.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_prompt.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_prompt.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\link_account3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\link_account3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\del_button_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\del_button_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\name_del.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\name_del.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_off_blue.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_off_blue.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\history_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\history_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\down_twinkle.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\down_twinkle.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\results_pic_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\results_pic_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_switch_on.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_switch_on.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\connect_wifi2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\connect_wifi2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\push_close.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\push_close.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_voice_btn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_voice_btn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_number_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_number_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_talkback.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_talkback.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\back.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_close_video_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_close_video_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\h_talk.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\h_talk.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_top_limit.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_top_limit.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_pause_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_pause_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\seekbar_thumb.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\seekbar_thumb.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\gohead_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\gohead_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_wait3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_wait3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\upgrade.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\upgrade.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_back.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_back.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\query_loding5.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\query_loding5.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\video_camera1_3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\video_camera1_3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_close1_video_ico.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_close1_video_ico.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\read_button_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\read_button_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_wifi3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_wifi3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_hd_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_hd_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\failure_wifi.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\failure_wifi.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_cut.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_cut.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\cameralist_add_camer_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\cameralist_add_camer_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_voice_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_voice_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stop.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\stop.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_on_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_on_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_infrared.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_infrared.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_off_sel_blue.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_off_sel_blue.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\amplify_screen_pressed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\amplify_screen_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_confirm_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_confirm_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\pause.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\pause.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\goback_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\goback_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_vertical_more.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_vertical_more.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_matte.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_matte.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_6.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_6.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ez_real_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ez_real_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\results_pic_f1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\results_pic_f1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_button_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_button_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\notify_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\notify_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\yuntai_pressed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\yuntai_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_other.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_other.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_search.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\equipment_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\equipment_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_off.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_off.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_close.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_close.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_infrared.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_infrared.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_balanced_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_balanced_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add_device_number_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add_device_number_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_no_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_no_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_h2c.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_h2c.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_left_limit.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_left_limit.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_speech_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_speech_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_2_select.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_2_select.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add_button.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add_button.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\read_button.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\read_button.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\previously_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\previously_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ckb_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ckb_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\equipment.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\equipment.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\autologin_off.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\autologin_off.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video_time_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video_time_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_right_limit.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_right_limit.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add2_button_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add2_button_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\connect_reset.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\connect_reset.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_setup.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_setup.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\opinion.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\opinion.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_nest.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_nest.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add2_button.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\add2_button.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_5.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_5.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\horizontal_shrink_screen_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\horizontal_shrink_screen_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_share_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_share_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_2_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_2_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_dvr.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_dvr.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_0.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_0.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_multiple3.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_multiple3.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_n1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_n1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\results_pic_default.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\results_pic_default.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\h_bg_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\h_bg_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_close_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_close_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_back.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_back.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icn_btn_bg_plus.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\icn_btn_bg_plus.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_wait4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_wait4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\gohead.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\gohead.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_more_down.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_more_down.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_multiple.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_multiple.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_video_now.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_video_now.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_wifi.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_wifi.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_previously_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_previously_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_failed.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_failed.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_speech_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_speech_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_loding_logo.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_loding_logo.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_small_press.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_small_press.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\camera_list_refresh.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\camera_list_refresh.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\results_pic_c1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\results_pic_c1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_stop_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_stop_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\login_logo.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\login_logo.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_vertical_more_dark.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_vertical_more_dark.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\alarm_encrypt_image_mid.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\alarm_encrypt_image_mid.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_previously.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_previously.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_collect_prs.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_collect_prs.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\waiting_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\waiting_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\video_camera1_2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\video_camera1_2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search_input.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\search_input.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_pause_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_pause_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_r1_retry_pressed.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_r1_retry_pressed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\my_switch_off.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\my_switch_off.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\h_talk_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\h_talk_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_close_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_close_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\amplify_screen_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\amplify_screen_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_flunet_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_flunet_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\down_horizontal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\down_horizontal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_time_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_time_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ckb_selected.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ckb_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_enlarge_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_enlarge_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\join_qq_group.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\join_qq_group.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_back_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_back_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_video.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_video.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_multiple4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_multiple4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\del_button.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\del_button.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_balanced.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_balanced.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_normal.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_cut_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_cut_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_r1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_r1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_button_red.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_button_red.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\prepare_device.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\prepare_device.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ez_real_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ez_real_play_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_loading.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_loading.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\camera_list_item_press.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\camera_list_item_press.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\inputlayout_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\inputlayout_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_down_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\title_down_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_x1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_x1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_gas.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_gas.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_previously_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_previously_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_menu_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\title_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_voice.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_voice.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\cameralist_add_camer_btn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\cameralist_add_camer_btn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_a1_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_a1_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_wait2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_wait2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_w1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_w1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_previously.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_previously.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exit_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\exit_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_cancel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_cancel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\shipin7_alarm_msg_new.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\shipin7_alarm_msg_new.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_remote.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_remote.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_enlarge_btn_sel.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_enlarge_btn_sel.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\login_logo_button.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\login_logo_button.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\btn_r1_retry_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\btn_r1_retry_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_water.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_water.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_loading_1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\logo_loading_1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\query_loding1.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\query_loding1.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_flunet_disabel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_flunet_disabel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_input_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_input_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\failure_account.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\failure_account.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_close_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_close_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_ptz_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_ptz_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\checked.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\checked.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\autologin_on.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\autologin_on.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\left_twinkle.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\left_twinkle.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_previously.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_previously.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\number_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\number_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\tittel_button_press_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\tittel_button_press_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lock_bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\lock_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_talk_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_talk_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_door.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_door.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\message_play_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\message_play_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_more_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_more_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_talk.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_talk.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hide_bg2_7.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\hide_bg2_7.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search_bnt.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\search_bnt.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\playback_cover2.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\playback_cover2.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\remote_play.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\remote_play.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_disable.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_disable.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\previously.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\previously.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\setup_wechat.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\setup_wechat.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_recording_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_recording_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_video_selection.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_video_selection.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stoplay_btn.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\stoplay_btn.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\top_bar_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\top_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\tittel_button_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\tittel_button_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_video_now_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_video_now_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sound_off_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\sound_off_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\auto_wifi_cicle_240.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\auto_wifi_cicle_240.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ptz_bottom_limit.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\ptz_bottom_limit.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title_more.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title_more.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_down_bg_normal.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_down_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\device_smoke.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\device_smoke.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\speech_4.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\speech_4.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_enlarge.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_enlarge.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\history_video_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\history_video_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_full_stop_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_full_stop_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_close_video_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_close_video_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_video_dis.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\play_video_dis.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\wifi_connect_tip.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\wifi_connect_tip.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_date_down_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_date_down_sel.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\palyback_pause.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\palyback_pause.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\server2.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\server2.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\common_title.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\common_title.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\preview_play_btn_dis.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\preview_play_btn_dis.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_down_play_sel.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\title_down_play_sel.png"
+    }
+]

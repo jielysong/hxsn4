@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/app_background" >
+    <!--  一道杠 -->
+    <RelativeLayout android:id="@+id/layout_yf_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/bar02_background">
+        <TextView android:id="@+id/text_title_one"
+            android:text="施肥建议"
+            style="@style/top_bar02_title"/>
+        <FrameLayout android:id="@+id/layout_num4"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5.0dip"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num2"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="4"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num3"
+            android:layout_toLeftOf="@id/layout_num4"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="3"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num2"
+            android:layout_toLeftOf="@id/layout_num3"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="2"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num1"
+            android:layout_toLeftOf="@id/layout_num2"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="1"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+
+    </RelativeLayout>
+    <RelativeLayout style="@style/top_bar02_line_layout"></RelativeLayout>
+
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout android:layout_width="match_parent"
+                android:layout_height="42.0dip">
+                <FrameLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip"
+                    android:layout_alignParentBottom="true">
+                    <ImageView android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#e5e5e5"/>
+                    <TextView android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:textSize="15.0dip"
+                        android:textColor="@color/content_item_card_text"
+                        android:text="测土配方施肥建议"/>
+                </FrameLayout>
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="match_parent"
+                android:layout_height="36.0dip">
+                <TextView android:id="@+id/text_item_title_jg01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5.0dip"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="种植作物："/>
+                <TextView android:id="@+id/text_item_zhzhzw"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@id/text_item_title_jg01"
+                    android:gravity="center_vertical"
+                    android:paddingRight="5.0dip"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="小麦"/>
+            </RelativeLayout>
+            <View style="@style/item_line1"/>
+            <View style="@style/item_line2"/>
+            <RelativeLayout android:layout_width="match_parent"
+                android:layout_height="36.0dip">
+                <TextView android:id="@+id/text_item_title_jg02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5.0dip"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="目标产量："/>
+                <TextView android:id="@+id/text_item_mbcl"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@id/text_item_title_jg02"
+                    android:gravity="center_vertical"
+                    android:paddingRight="5.0dip"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="550公斤/亩"/>
+            </RelativeLayout>
+            <!--
+            <View style="@style/item_line1"/>
+            <View style="@style/item_line2"/>
+            <RelativeLayout android:layout_width="match_parent"
+                android:layout_height="36.0dip">
+                <TextView android:id="@+id/text_item_title_jg03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5.0dip"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="底肥："/>
+                <TextView android:id="@+id/text_item_difei1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@id/text_item_title_jg03"
+                    android:gravity="center_vertical"
+                    android:paddingRight="5.0dip"
+                    android:textColor="@color/content_item_text"
+                    android:textSize="15.0dip"
+                    android:text="小麦撒可富配方肥1号（21-11-8）29.7公斤/亩"/>
+            </RelativeLayout>
+             -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="@string/soil_component"/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/soil_components"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+            <LinearLayout
+                android:id="@+id/sffa_one_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="施肥方案一："/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/layout_difei1_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+            <LinearLayout android:id="@+id/layout_zhuifei1_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+            <LinearLayout
+                android:id="@+id/sffa_two_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="施肥方案二："/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:id="@+id/layout_difei1_two"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+            <LinearLayout android:id="@+id/layout_zhuifei1_two"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"></LinearLayout>
+            <!--
+           <View style="@style/item_line1"/>
+           <View style="@style/item_line2"/>
+           <RelativeLayout android:layout_width="match_parent"
+               android:layout_height="36.0dip">
+               <TextView android:id="@+id/text_item_title_jg04"
+                   android:layout_width="wrap_content"
+                   android:layout_height="match_parent"
+                   android:layout_marginLeft="5.0dip"
+                   android:gravity="center_vertical"
+                   android:textColor="@color/content_item_text"
+                   android:textSize="15.0dip"
+                   android:text="追肥："/>
+               <TextView android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:layout_toRightOf="@id/text_item_title_jg04"
+                   android:gravity="center_vertical"
+                   android:paddingRight="5.0dip"
+                   android:textColor="@color/content_item_text"
+                   android:textSize="15.0dip"
+                   android:text="尿素13.2公斤/亩"/>
+           </RelativeLayout>-->
+            <LinearLayout
+                android:id="@+id/data_mechod_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="施肥时期和方法提示："/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearlayout_df_suggest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView android:id="@+id/text_item_title_jg04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:layout_centerVertical="true"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="底肥："/>
+                    <TextView android:id="@+id/text_tishi_difei"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toRightOf="@id/text_item_title_jg04"
+                        android:gravity="center_vertical"
+                        android:paddingRight="5.0dip"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="整地前地表撒施及时耕翻"/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearlayout_zf_suggest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView android:id="@+id/text_item_title_jg05"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="追肥："/>
+                    <TextView android:id="@+id/text_tishi_zhuifei"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toRightOf="@id/text_item_title_jg05"
+                        android:gravity="center_vertical"
+                        android:paddingRight="5.0dip"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="拨节期70%，扬花灌浆期30%"/>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearlayout_wf_suggest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <View style="@style/item_line1"/>
+                <View style="@style/item_line2"/>
+                <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="36.0dip">
+                    <TextView android:id="@+id/text_item_title_jg06"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5.0dip"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="微肥："/>
+                    <TextView android:id="@+id/text_tishi_weifei"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toRightOf="@id/text_item_title_jg06"
+                        android:gravity="center_vertical"
+                        android:paddingRight="5.0dip"
+                        android:textColor="@color/content_item_card_text"
+                        android:textSize="15.0dip"
+                        android:text="非配方肥时，每亩施1-1.5公斤锌肥，中期向叶面喷洒微量元素肥和叶面肥"/>
+                </RelativeLayout>
+            </LinearLayout>
+            <View style="@style/item_line1"/>
+            <View style="@style/item_line2"/>
+
+            <View android:layout_width="match_parent"
+                android:layout_height="24.0dip"/>
+            <LinearLayout android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_share_jyk"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_bck"
+                    android:textSize="20.0dip"
+                    android:textColor="@color/bar02_num_white"
+                    android:text="@string/btn_share"/>
+
+                <Button android:id="@+id/btn_sfjyk"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/button_bck"
+                    android:textSize="20.0dip"
+                    android:textColor="@color/bar02_num_white"
+                    android:text="@string/btn_save"/>
+
+                <Button android:id="@+id/btn_back_sfjyk"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/button_bck"
+                    android:textSize="20.0dip"
+                    android:textColor="@color/bar02_num_white"
+                    android:text="@string/btn_back"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

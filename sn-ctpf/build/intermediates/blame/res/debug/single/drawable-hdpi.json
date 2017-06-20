@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_top.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\src\\main\\res\\drawable-hdpi\\bg_top.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bck_bg.9.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\src\\main\\res\\drawable-hdpi\\button_bck_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_01.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\src\\main\\res\\drawable-hdpi\\bg_01.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_02.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ctpf\\src\\main\\res\\drawable-hdpi\\bg_02.png"
+    }
+]

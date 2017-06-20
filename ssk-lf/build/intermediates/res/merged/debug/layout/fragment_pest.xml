@@ -1,0 +1,189 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white_light"
+    tools:ignore="HardcodedText"
+    tools:context="com.hxsn.ssklf.fragment.PestFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txt_crop1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@color/cyan_blue"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:text="黄瓜" />
+
+        <TextView
+            android:id="@+id/txt_crop2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:background="@color/gray_light_n"
+            android:textColor="@color/black_text_n"
+            android:text="番茄" />
+
+        <TextView
+            android:id="@+id/txt_crop3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_weight="1"
+            android:background="@color/gray_light_n"
+            android:textColor="@color/black_text_n"
+            android:text="莲藕" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_crop"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/img_cucumber"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txt_season1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:background="@color/sky_blue"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:text="春茬"
+            android:textSize="16sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_season2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@color/gray_light_s"
+            android:textColor="@color/black_text_n"
+            android:text="春茬"
+            android:textSize="16sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_season3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="16sp"
+            android:layout_weight="1"
+            android:background="@color/gray_light_s"
+            android:textColor="@color/black_text_n"
+            android:text="春茬"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txt_phenophase1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/sky_blue"
+            android:layout_weight="1"
+            android:text="育苗期"
+            android:textSize="13sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:textColor="@color/black_text_n"
+            android:text="定植期"
+            android:textSize="13sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:textSize="13sp"
+            android:layout_weight="1"
+            android:textColor="@color/black_text_n"
+            android:text="幼苗期"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:textSize="13sp"
+            android:layout_weight="1"
+            android:textColor="@color/black_text_n"
+            android:text="坐果期"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:textSize="13sp"
+            android:layout_weight="1"
+            android:textColor="@color/black_text_n"
+            android:text="结果期"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase6"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:textSize="13sp"
+            android:layout_weight="1"
+            android:textColor="@color/black_text_n"
+            android:text="结果后期"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/RecyclerView"
+        android:scrollbars="vertical"/>
+
+</LinearLayout>

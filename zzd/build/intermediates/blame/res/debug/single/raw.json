@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\raw\\paizhao.mp3",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\raw\\paizhao.mp3"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\raw\\windows.wav",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\raw\\windows.wav"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\raw\\beep.mp3",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\raw\\beep.mp3"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\raw\\record.wav",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\raw\\record.wav"
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="black_light">#606060</color>
+    <color name="black_text_n">#545454</color>
+    <color name="black_text_s">#666666</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_dark">#00008B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_1">#a2c169</color>
+    <color name="color_2">#b4c169</color>
+    <color name="color_3">#ebc44d</color>
+    <color name="color_4">#e18c67</color>
+    <color name="color_5">#f1665f</color>
+    <color name="color_6">#c173e1</color>
+    <color name="color_7">#4991c1</color>
+    <color name="color_8">#3f83c4</color>
+    <color name="color_9">#66b6ad</color>
+    <color name="cyan_blue">#23beb0</color>
+    <color name="gary_backgound">#F0F0F0</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#a1a1a1</color>
+    <color name="gray_dark">#808080</color>
+    <color name="gray_light">#f0f0f0</color>
+    <color name="gray_light_n">#e5e5e5</color>
+    <color name="gray_light_s">#fafafa</color>
+    <color name="green">#ff008000</color>
+    <color name="green_dark">#006400</color>
+    <color name="green_light">#00D400</color>
+    <color name="green_none">#1ba158</color>
+    <color name="light_blue">#aadeec</color>
+    <color name="orange">#f7911b</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="pink_light">#FFB6C1</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="red_dart">#f23d3d</color>
+    <color name="red_light">#fe4d3d</color>
+    <color name="sky_blue">#17cbdb</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_light">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_light">#FFFFE0</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">随时看</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_password_edit">PasswordEditActivity</string>
+    <string name="title_activity_send_problem">SendProblemActivity</string>
+    <string name="title_activity_set_text">SetTextActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_version_info">VersionInfoActivity</string>
+    <string name="title_activity_warnning">WarnningActivity</string>
+    <string name="title_activity_wen">WenActivity</string>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="loading_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!--Dialog的windowFrame框为无 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否漂现在activity上-->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 是否半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- dim:模糊的 阴影效果 -->
+    </style>
+</resources>

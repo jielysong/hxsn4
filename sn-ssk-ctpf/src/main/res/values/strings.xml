@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">随时看测土</string>
+
+
+    <string name="title_activity_ctmap">CTMapActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
+    <string name="tab_text01">地图</string>
+    <string name="tab_text02">养分</string>
+    <string name="tab_text03">二维码</string>
+    <string name="tab_text04">区域</string>
+    <string name="tab_text05">更多</string>
+
+    <string name="btn_back">后退</string>
+    <string name="btn_save">保存结果</string>
+    <string name="btn_share">分享</string>
+
+    <string name="update_software_title">软件升级</string>
+    <string name="update_software_message">发现新版本,建议立即更新使用.</string>
+    <string name="update_software_positive">更新</string>
+    <string name="update_software_negative">取消</string>
+    <string name="update_download_success">下载成功，点击安装</string>
+    <string name="update_download_fail">下载失败</string>
+    <string name="updating">更新中</string>
+    <string name="downloading">正在下载</string>
+    <string name="sms_tip">短信使用说明</string>
+    <string name="sms_manual">短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明</string>
+    <string name="soil_component">土壤养分测试数据：</string>
+    <string name="exit_msg">再按一次返回键退出程序</string>
+    <string-array name="dm">
+        <item>平原</item>
+        <item>丘陵</item>
+        <item>中山</item>
+    </string-array>
+    <string-array name="tz">
+        <item>轻壤</item>
+        <item>中壤</item>
+        <item>重壤</item>
+    </string-array>
+    <string name="error_msg">程序配置错误</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_password_edit">PasswordEditActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_set_text">SetTextActivity</string>
+    <string name="title_activity_wen">WenActivity</string>
+    <string name="title_activity_warnning">WarnningActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_send_problem">SendProblemActivity</string>
+    <string name="title_activity_version_info">VersionInfoActivity</string>
+</resources>

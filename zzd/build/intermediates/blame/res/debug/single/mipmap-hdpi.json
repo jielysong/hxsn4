@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pass.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\mipmap-hdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_logo.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\mipmap-hdpi\\icon_logo.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\mipmap-hdpi\\user.png"
+    }
+]

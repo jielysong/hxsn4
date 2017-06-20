@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_background"
+    android:orientation="vertical" 
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+	
+    <!--  一道杠 -->
+    <RelativeLayout android:id="@+id/layout_yf_bar"
+    	android:layout_width="match_parent"
+    	android:layout_height="40.0dip"
+    	android:background="@color/bar02_background">
+    	<TextView android:id="@+id/text_title_one"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="match_parent"
+    	    android:text="输入地块养分含量"
+    	    style="@style/top_bar02_title"/>
+	</RelativeLayout>
+	<RelativeLayout style="@style/top_bar02_line_layout"></RelativeLayout>
+	
+	<LinearLayout android:layout_width="match_parent"
+	    android:layout_height="48.0dip">
+	    <TextView android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2.0"
+	        android:text="有机质（g/kg）"
+	        style="@style/yangfen_item_text"/>
+	    <EditText android:id="@+id/et_yf_yjz"
+	        android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3.0"
+	        android:layout_margin="5.0dip"
+	        android:singleLine="true"
+	        android:digits="1234567890."
+	        android:inputType="number"/>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout android:layout_width="match_parent"
+	    android:layout_height="48.0dip">
+	    <TextView android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2.0"
+	        android:text="碱解氮（mg/kg）"
+	        style="@style/yangfen_item_text"/>
+	    <EditText android:id="@+id/et_yf_jjd"
+	        android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3.0"
+	        android:layout_margin="5.0dip"
+	        android:singleLine="true"
+	        android:digits="1234567890."
+	        android:inputType="number"/>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout android:layout_width="match_parent"
+	    android:layout_height="48.0dip">
+	    <TextView android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2.0"
+	        android:text="有效磷（mg/kg）"
+	        style="@style/yangfen_item_text"/>
+	    <EditText android:id="@+id/et_yf_yxl"
+	        android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3.0"
+	        android:layout_margin="5.0dip"
+	        android:singleLine="true"
+	        android:digits="1234567890."
+	        android:inputType="number"/>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout android:layout_width="match_parent"
+	    android:layout_height="48.0dip">
+	    <TextView android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2.0"
+	        android:text="速效钾（mg/kg）"
+	        style="@style/yangfen_item_text"/>
+	    <EditText android:id="@+id/et_yf_sxj"
+	        android:layout_width="0.0dip"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3.0"
+	        android:layout_margin="5.0dip"
+	        android:singleLine="true"
+	        android:digits="1234567890."
+	        android:inputType="number"/>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="48dp">
+	    <TextView 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"
+	        android:text="土壤质地"
+	        style="@style/yangfen_item_text"/>
+	    <Spinner android:id="@+id/tz" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3"/>
+	    <RadioGroup 
+	        android:id="@+id/rg_yf_trzd"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3"
+	        android:orientation="horizontal"
+	        android:layout_margin="5dp"
+	        android:visibility="gone">
+	        <RadioButton 
+	            android:id="@+id/rb_qr_trzd"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:checked="true"
+	            android:text="轻壤"/>
+	        <RadioButton 
+	            android:id="@+id/rb_mr_trzd"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:text="中壤"/>
+	        <RadioButton 
+	            android:id="@+id/rb_zr_trzd"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:text="重壤"/>
+	    </RadioGroup>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="48dp">
+	    <TextView 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"
+	        android:text="地貌类型"
+	        style="@style/yangfen_item_text"/>
+	    <Spinner android:id="@+id/dm" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3"/>
+	    <RadioGroup 
+	        android:id="@+id/rg_dm_dmlx"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3"
+	        android:orientation="horizontal"
+	        android:layout_margin="5dp"
+	        android:visibility="gone">
+	        <RadioButton 
+	            android:id="@+id/rb_py_dmlx"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:checked="true"
+	            android:text="平原"/>
+	        <RadioButton 
+	            android:id="@+id/rb_ql_dmlx"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:text="丘陵"/>
+	        <RadioButton 
+	            android:id="@+id/rb_zs_dmlx"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/content_item_text"
+	            android:text="中山"/>
+	    </RadioGroup>
+	</LinearLayout>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	<LinearLayout 
+	    android:id="@+id/county_linearlayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="48dp"
+	    android:visibility="gone"
+	    android:orientation="horizontal">
+	    <TextView 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"
+	        android:text="选择县级"
+	        style="@style/yangfen_item_text"/>
+	    <LinearLayout 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="3"
+	        android:orientation="horizontal">
+	        <Spinner 
+	            android:id="@+id/sp_county"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            />
+	    </LinearLayout>
+	</LinearLayout>
+	<View android:layout_width="match_parent"
+	    android:layout_height="24.0dip"/>
+	<Button android:id="@+id/btn_yfhl"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:background="@drawable/button_next"/>
+</LinearLayout>
+</ScrollView>

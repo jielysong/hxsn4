@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\normal.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\normal.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\img_pest_normal.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\img_pest_normal.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nsh.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\nsh.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\mine.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\mine.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\modifykey.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\modifykey.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\setting.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\setting.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nsh1.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\nsh1.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\low.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\low.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\img_pest_high.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\img_pest_high.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nqz.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\nqz.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nsh2.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\nsh2.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\high.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\mipmap-xxxhdpi\\high.jpg"
+    }
+]

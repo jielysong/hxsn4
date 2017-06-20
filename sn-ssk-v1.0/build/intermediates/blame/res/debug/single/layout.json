@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\in_bottom_menu.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\in_bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_load_progress.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\dialog_load_progress.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_warnning.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_warnning.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wen3.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\fragment_wen3.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_setting.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_system_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nqzhan4.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\fragment_nqzhan4.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_problem.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_send_problem.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\in_title.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\in_title.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_edit.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_password_edit.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_njhui2.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\fragment_njhui2.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine5.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\fragment_mine5.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\item_version_info.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\item_version_info.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_text.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_set_text.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_version_info.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_version_info.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ssk1.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\fragment_ssk1.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\layout\\activity_welcome.xml"
+    }
+]

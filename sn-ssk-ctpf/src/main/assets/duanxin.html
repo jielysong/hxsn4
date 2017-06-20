@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
+
+<title>短信操作指令说明</title>
+</head>
+<style>
+html{ font-size: 62.5%; background:#F0EFED; color:#666; padding:0; font-family:"微软雅黑"}
+body{ background:#ebebeb url(bg.png) no-repeat  top center; margin:0 auto; padding:0;}
+.main{margin:0 auto; padding:0 1rem; font-size:1.4rem; color:#211c20; padding-top:1rem;  overflow:hidden}
+.main h3{ color:#211c20; font-size:1.6rem; text-align:center;  margin:0; height:3rem; line-height:3rem; margin-top:4.5rem}
+.main p{ margin:0; margin-top:0.3rem; line-height:2.4rem; text-indent:2em;}
+.main p span{ color:#0b73bc }
+.main p.biao{ font-weight:bold}
+
+
+</style>
+<body>
+<div class="main">
+<h3>短信操作指令说明文档</h3>
+	<p>用户编辑指令，并发送到<span><script type="text/javascript">document.write(window.android.getPhoneNum())</script></span>就能实现地块的施肥方案。</p>
+<p>参数分隔符用# 或空格分隔</p>
+<p  class="biao"><span>CX:</span> 主要用于查询地块的作物施肥方案和订阅。</p>
+<p><span>格式：</span>CX#地块编号#作物名称#目标产量、
+	CX#经度#纬度#作物名称#目标产量、CX#村名#作物名称#目标产量（参数顺序不限制）</p>
+<p><span>说明：</span>缺少目标产量参数，系统自动计算指定地块和作物的最佳目标产量。
+缺少其他参数，可通过历史最近的查询记录补充，找不到对应查询参数，系统通过短信下发错误提示。
+作物参数支持中文（如小麦）和汉语拼音首字母（如xm）。
+通过短信内容和查询记录都无法获得地块编号或经纬度，则无法查询。</p>
+<p  class="biao"><span>QX：</span>主要用于取消订阅。</p>
+<p><span>格式：</span>QX</p>
+<p><span>说明：</span>取消订阅后，不再接收短信群发服务。</p>
+<p  class="biao"><span>BZSM：</span>主要用于返回短信指令帮助说明。</p>
+<p><span>格式：</span>BZSM</p>
+<p><span>说明：</span>根据提示获取更多帮助。</p>
+</div>
+</body>
+</html>

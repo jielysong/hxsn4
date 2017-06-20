@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_add_big.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_add_big.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_x.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_x.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_scan.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_scan.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\zan.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\zan.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_dot.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_dot.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_load.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_load.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_return.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable-mdpi\\icon_return.png"
+    }
+]

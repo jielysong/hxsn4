@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:layout_marginTop="5dp"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:background="@color/white_light"
+    tools:ignore="HardcodedText">
+
+    <RelativeLayout
+        android:id="@+id/rl_menu1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/txt_temp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="空气温度"
+            android:gravity="center"
+            android:textColor="@color/green_none"/>
+
+        <TextView
+            android:id="@+id/txt_temp_val"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/txt_temp"
+            android:text="-℃"
+            android:gravity="center"
+            android:background="@drawable/bg_text_green"
+            android:textColor="@color/green_none"/>
+
+        <View
+            android:id="@+id/view_line1"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green_none"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_menu2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/txt_humidity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="空气湿度"
+            android:gravity="center"
+            android:textColor="@color/black_text_n"/>
+
+        <TextView
+            android:id="@+id/txt_humidity_val"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/txt_humidity"
+            android:text="-%"
+            android:gravity="center"
+            android:background="@drawable/bg_text_gray"
+            android:textColor="@color/black_text_n"/>
+
+        <View
+            android:id="@+id/view_line2"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_light_n"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_menu3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/txt_soil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="土壤温度"
+            android:gravity="center"
+            android:textColor="@color/black_text_n"/>
+
+        <TextView
+            android:id="@+id/txt_soil_val"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/txt_soil"
+            android:text="-℃"
+            android:gravity="center"
+            android:background="@drawable/bg_text_gray"
+            android:textColor="@color/black_text_n"/>
+
+        <View
+            android:id="@+id/view_line3"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_light_n"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_menu4"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/txt_illu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="光照"
+            android:gravity="center"
+            android:textColor="@color/black_text_n"/>
+
+        <TextView
+            android:id="@+id/txt_illu_val"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/txt_illu"
+            android:text="-Lx"
+            android:gravity="center"
+            android:background="@drawable/bg_text_gray"
+            android:textColor="@color/black_text_n" />
+
+        <View
+            android:id="@+id/view_line4"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_light_n"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

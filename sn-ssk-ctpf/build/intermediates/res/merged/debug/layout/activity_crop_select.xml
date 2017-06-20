@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:orientation="vertical" >
+
+    <!--  一道杠 -->
+    <RelativeLayout android:id="@+id/layout_yf_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/bar02_background">
+        <TextView
+            android:id="@+id/text_title_one"
+            android:text="选择种植作物"
+            style="@style/top_bar02_title"/>
+        <FrameLayout android:id="@+id/layout_num4"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5.0dip"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="4"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num3"
+            android:layout_toLeftOf="@id/layout_num4"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="3"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num2"
+            android:layout_toLeftOf="@id/layout_num3"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num1"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="2"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/layout_num1"
+            android:layout_toLeftOf="@id/layout_num2"
+            style="@style/top_bar02_icon_layout">
+            <ImageView android:background="@drawable/num2"
+                style="@style/top_bar02_icon_image"/>
+            <TextView android:text="1"
+                style="@style/top_bar02_icon_text"/>
+        </FrameLayout>
+
+    </RelativeLayout>
+    <RelativeLayout style="@style/top_bar02_line_layout"></RelativeLayout>
+
+
+    <ListView android:id="@+id/list_zwxz"
+        android:layout_width="match_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:fadingEdge="none"
+        android:cacheColorHint="#00000000"/>
+
+    <Button android:id="@+id/btn_back_zwxz"
+        android:layout_width="120dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@drawable/button_bck"
+        android:textSize="20.0dip"
+        android:textColor="@color/bar02_num_white"
+        android:text="@string/btn_back"/>
+
+</LinearLayout>

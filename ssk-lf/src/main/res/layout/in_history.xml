@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_light"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/txt_today"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/bg_text_sky"
+            android:textColor="@color/white"
+            android:text="今天"/>
+
+        <TextView
+            android:id="@+id/txt_yesterday"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_text_gray"
+            android:textColor="@color/black_text_n"
+            android:text="昨天"/>
+
+        <TextView
+            android:id="@+id/txt_pre_yesterday"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_text_gray"
+            android:textColor="@color/black_text_n"
+            android:text="前天"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/bg_text_sky"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/table_title"
+            layout="@layout/item_history"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="#B4B3B3"/>
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:divider="#B4B3B3"
+            android:dividerHeight="1.0dip"
+            android:scrollbars="none"
+            android:background="@drawable/listview_bg"
+            android:fadingEdge="none"
+            android:visibility="gone">
+        </ListView>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#B4B3B3"
+            android:dividerHeight="1.0dip"
+            android:scrollbars="none"
+            android:background="@drawable/listview_bg" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg_nomal_color.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-ldpi\\bg_nomal_color.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg_high_color.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-ldpi\\bg_high_color.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg_low_color.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-ldpi\\bg_low_color.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg_error_color.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-ldpi\\bg_error_color.png"
+    }
+]

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green_none">#1ba158</color>
+    <!-- 农业绿 -->
+    <color name="green_dark">#006400</color>
+    <!-- 深绿 -->
+    <color name="green_light">#00D400</color>
+    <!-- 浅绿 -->
+    <color name="green">#ff008000</color>
+    <!-- 绿色 -->
+    <color name="gray_light">#f0f0f0</color>
+    <color name="gray_light_n">#e5e5e5</color>
+    <color name="gray_light_s">#fafafa</color>
+    <color name="gray">#a1a1a1</color>
+    <!-- 灰色 -->
+    <color name="gray_dark">#808080</color>
+    <color name="black">#000000</color>
+    <color name="black_text_s">#666666</color>
+    <color name="black_text_n">#545454</color>
+    <color name="black_light">#606060</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="white_light">#F5F5F5</color>
+    <!-- 白色 -->
+    <color name="yellow_light">#FFFFE0</color>
+    <!-- 亮黄色 -->
+    <color name="yellow">#FFFF00</color>
+    <!-- 黄色 -->
+    <color name="snow">#FFFAFA</color>
+    <!-- 雪白色 -->
+    <color name="gold">#FFD700</color>
+    <!-- 金色 -->
+    <color name="pink">#FFC0CB</color>
+    <!-- 粉红色 -->
+    <color name="pink_light">#FFB6C1</color>
+    <!-- 亮粉红色 -->
+    <color name="orange">#f7911b</color>
+    <!-- 橙色 -->
+    <color name="red">#FF0000</color>
+    <!-- 橙色 -->
+    <color name="red_light">#fe4d3d</color>
+    <!-- 橙色 -->
+    <color name="red_dart">#f23d3d</color>
+    <color name="sky_blue">#17cbdb</color>
+    <!-- 天蓝色 -->
+    <color name="cyan_blue">#23beb0</color>
+    <!-- 天蓝色 -->
+    <color name="light_blue">#aadeec</color>
+    <!-- 亮蓝色 -->
+    <color name="purple">#800080</color>
+    <!-- 紫色 -->
+    <color name="blue">#0000FF</color>
+    <!-- 蓝色 -->
+    <color name="blue_dark">#00008B</color>
+    <!-- 暗蓝色 -->
+    <color name="color_1">#a2c169</color>
+    <!-- 暗蓝色 -->
+    <color name="color_2">#b4c169</color>
+    <!-- 暗蓝色 -->
+    <color name="color_3">#ebc44d</color>
+    <color name="color_31">#eeeeaa</color>
+    <!-- 暗蓝色 -->
+    <color name="color_4">#e18c67</color>
+    <!-- 暗蓝色 -->
+    <color name="color_5">#f1665f</color>
+    <!-- 暗蓝色 -->
+    <color name="color_6">#c173e1</color>
+    <!-- 暗蓝色 -->
+    <color name="color_7">#4991c1</color>
+    <!-- 暗蓝色 -->
+    <color name="color_8">#3f83c4</color>
+    <!-- 暗蓝色 -->
+    <color name="color_9">#66b6ad</color>
+    <!-- 暗蓝色 -->
+    <color name="gary_background">#F0F0F0</color>
+
+    <color name="tr_green">#661ba158</color>
+
+    <color name="normal">#3A9C36</color>
+    <color name="high">#EB6100</color>
+    <color name="low">#00CAEE</color>
+
+    <color name="test">#999999</color>
+
+</resources>

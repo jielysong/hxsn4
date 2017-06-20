@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hxsn4.iml" filepath="$PROJECT_DIR$/hxsn4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-ctpf/sn-ctpf.iml" filepath="$PROJECT_DIR$/sn-ctpf/sn-ctpf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-ssk-ctpf/sn-ssk-ctpf.iml" filepath="$PROJECT_DIR$/sn-ssk-ctpf/sn-ssk-ctpf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-ssk-v1.0/sn-ssk-v1.0.iml" filepath="$PROJECT_DIR$/sn-ssk-v1.0/sn-ssk-v1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssk-lf/ssk-lf.iml" filepath="$PROJECT_DIR$/ssk-lf/ssk-lf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssk_library/ssk_library.iml" filepath="$PROJECT_DIR$/ssk_library/ssk_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zzd/zzd.iml" filepath="$PROJECT_DIR$/zzd/zzd.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    tools:ignore="HardcodedText">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="33dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@color/black_text_n"
+            android:text="短信操作指令说明文档"/>
+
+        <TextView
+            android:id="@+id/txt_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black_text_s"
+            android:textSize="13sp"
+            android:text="\t\t用户编辑指令，并发送到就能实现地块的施肥方案。"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black_text_s"
+            android:textSize="13sp"
+            android:text="\t\t参数分割用#或空格分割"/>
+
+        <TextView
+            android:id="@+id/txt_cx"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@color/black_text_s"
+            android:text="\t\tCX: 主要用于查询地块的作物施肥方案和订阅。"/>
+
+        <TextView
+            android:id="@+id/txt_format"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:textSize="13sp"
+            android:text="\t\t格式：CX#地块编号#作物名称#目标产量、CX#经度#纬度#作物名称#目标产量、CX#村名#作物名称#目标产量(参数顺序不限制)"/>
+
+        <TextView
+            android:id="@+id/txt_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:textSize="13sp"
+            android:text="\t\t说明：缺少目标产量参数，系统自动计算指定地块和作物的最佳目标产量。缺少其他参数，可通过历史最近的查询记录补充，找不到对应查询参数，系统通过短信下发错误提示。作物参数支持中文(如小麦)和汉语拼音首字母(如xm)。通过短信内容和查询记录都无法获得地块编号或经纬度，则无法查询。"/>
+
+        <TextView
+            android:id="@+id/txt_qx"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@color/black_text_s"
+            android:text="\t\tQX: 主要用于取消订阅。"/>
+
+        <TextView
+            android:id="@+id/txt_format2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:textSize="13sp"
+            android:text="\t\t格式：QX"/>
+
+        <TextView
+            android:id="@+id/txt_info2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:textSize="13sp"
+            android:text="\t\t说明：取消订阅后，不再接收短信群发服务。"/>
+
+        <TextView
+            android:id="@+id/txt_bzsm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@color/black_text_s"
+            android:text="\t\tBZSM: 主要用于返回短信指令帮助说明。"/>
+
+        <TextView
+            android:id="@+id/txt_format3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="13sp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:text="\t\t格式：BZSM"/>
+
+        <TextView
+            android:id="@+id/txt_info3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="13sp"
+            android:textColor="@color/black_text_s"
+            android:lineSpacingExtra="5dp"
+            android:text="\t\t说明：根据提示获取更多帮助。"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp" />
+    </LinearLayout>
+
+</ScrollView>
+
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    tools:ignore="HardcodedText">
+
+
+    <RelativeLayout
+        android:id="@+id/rl_img_pest"
+        android:layout_width="125dp"
+        android:layout_height="91dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_gravity="center_vertical"
+        android:background="@mipmap/bg_cucumber1_cudaob">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentRight="true"
+            android:text="黄瓜猝倒病"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:textColor="@color/red_light"
+            android:background="@color/tr_green"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_season1"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@color/sky_blue"
+            android:textSize="13sp"/>
+
+        <TextView
+            android:id="@+id/txt_season2"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="秋冬茬"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_text_gray"
+            android:textSize="13sp"/>
+
+        <TextView
+            android:id="@+id/txt_season3"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="越冬茬"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_text_gray"
+            android:textSize="13sp"/>
+        <TextView
+            android:id="@+id/txt_season4"
+            android:layout_width="60dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="越冬茬"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_text_gray"
+            android:textSize="13sp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_phenophase1"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="育苗期:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase2"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase3"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase4"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase5"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_phenophase6"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_is_infection1"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_is_infection2"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_is_infection3"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_is_infection4"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/txt_is_infection5"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+        <TextView
+            android:id="@+id/txt_is_infection6"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:text="春茬:"
+            android:gravity="center"
+            android:textColor="@color/gray_dark"
+            android:textSize="12sp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+

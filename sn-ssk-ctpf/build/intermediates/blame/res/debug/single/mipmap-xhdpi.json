@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\user.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\src\\main\\res\\mipmap-xhdpi\\user.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\pass.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\src\\main\\res\\mipmap-xhdpi\\pass.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-ctpf\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

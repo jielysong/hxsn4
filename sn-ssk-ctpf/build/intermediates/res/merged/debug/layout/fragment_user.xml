@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/app_background" >
+
+    <RelativeLayout android:id="@+id/layout_yf_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/bar02_background">
+        <TextView android:id="@+id/text_title_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="用户名称养分查询"
+            style="@style/top_bar02_title"/>
+    </RelativeLayout>
+    <RelativeLayout style="@style/top_bar02_line_layout"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_farmer_name"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="7"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:drawableLeft="@drawable/ss01"
+            android:singleLine="true"
+            android:hint="请输入农户名称"
+            android:textColorHint="#acacac"/>
+
+        <Button
+            android:id="@+id/btn_farmer_search"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="3"
+            android:layout_gravity="center"
+            android:background="@drawable/button_bck_bg"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:text="查询"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查询结果："
+        android:textSize="18sp"
+        android:textColor="#000000"/>
+    <ListView
+        android:id="@+id/listview_farmer_search_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fadingEdge="none"
+        android:cacheColorHint="#00000000">
+    </ListView>
+</LinearLayout>

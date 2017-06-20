@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\event_list_fail_pic.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\event_list_fail_pic.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\default_figure.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\default_figure.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\defalut_alarm.jpg",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable-ldpi\\defalut_alarm.jpg"
+    }
+]

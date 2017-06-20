@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_red.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\bg_shape_red.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\point_focured.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\point_focured.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_point.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\bg_point.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_text_gray.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\bg_text_gray.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\point_nomal.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\point_nomal.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\style_wen.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\style_wen.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\style_zhan.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\style_zhan.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\style_ssk.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\style_ssk.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\style_mine.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\style_mine.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\build\\intermediates\\res\\merged\\debug\\drawable\\style_none.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\sn-ssk-v1.0\\src\\main\\res\\drawable\\style_none.xml"
+    }
+]

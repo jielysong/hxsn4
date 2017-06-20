@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:5:5-76
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:11:5-76
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:6:5-69
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:7:5-71
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:8:5-80
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:9:5-81
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:15:5-81
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:10:5-84
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.INTERNET
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:13:5-67
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:14:5-79
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:16:5-76
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:19:5-75
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:20:5-81
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:21:5-73
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:22:5-66
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:24:5-75
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:25:5-81
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:26:5-82
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:32:5-82
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:26:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:27:5-88
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:33:5-88
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:27:22-85
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:28:5-76
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:28:22-73
+meta-data#api_key
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:31:5-33:52
+	android:value
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:32:9-31
+application
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:35:5-153:19
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:36:5-40:19
+MERGED from [com.android.support:support-v4:23.4.0] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:39:9-41
+	android:supportsRtl
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:40:9-35
+	android:allowBackup
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:38:9-41
+	android:theme
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:36:9-37
+activity#com.hxsn.ssk.MainActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:42:9-51:20
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:44:13-49
+	android:launchMode
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:43:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:49:27-74
+activity#com.hxsn.ssk.activity.WelcomeActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:52:9-98
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:52:60-96
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:52:19-59
+activity#com.hxsn.ssk.activity.LoginActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:53:9-96
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:53:58-94
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:53:19-57
+activity#com.hxsn.ssk.activity.HomeActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:54:9-95
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:54:57-93
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:54:19-56
+activity#com.hxsn.ssk.activity.PasswordEditActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:56:9-59:68
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:59:13-65
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:57:13-58
+activity#com.hxsn.ssk.activity.AboutUsActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:60:9-63:63
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:63:13-60
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:61:13-53
+activity#com.hxsn.ssk.activity.SettingActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:64:9-67:62
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:67:13-59
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:65:13-53
+activity#com.hxsn.ssk.activity.SetTextActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:68:9-71:63
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:69:13-53
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:75:9-89:20
+	android:process
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:76:13-77
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:78:13-88:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:79:17-79
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:79:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:80:17-79
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:80:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:81:17-97
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:81:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:82:17-91
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:82:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:84:17-78
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:84:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:85:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:86:17-87
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:86:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:87:17-90
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:87:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:91:9-103:20
+	android:process
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:92:13-78
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:94:13-97:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:95:17-86
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:95:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:96:17-89
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:96:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:98:13-102:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:99:17-80
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:99:25-77
+data
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:101:17-50
+	android:scheme
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:101:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:105:9-112:19
+	android:process
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:108:13-44
+	android:exported
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:107:13-36
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:106:13-69
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:109:13-111:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:110:17-92
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:110:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:114:9-116:39
+	android:exported
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:115:13-72
+receiver#com.hxsn.ssk.service.BaiduPushMessageReceiver
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:120:9-130:20
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:120:19-67
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:121:13-129:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:124:17-87
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:124:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:126:17-87
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:126:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:128:17-98
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:128:25-95
+activity#com.hxsn.ssk.activity.WarnningActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:132:9-137:47
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:136:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:135:13-60
+	android:launchMode
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:137:13-44
+	android:exported
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:134:13-36
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:133:13-54
+activity#com.hxsn.ssk.activity.NewsActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:138:9-143:47
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:141:13-56
+	android:launchMode
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:143:13-44
+	android:exported
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:140:13-36
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:139:13-50
+activity#com.hxsn.ssk.activity.SendQuestActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:144:9-147:66
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:147:13-64
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:145:13-55
+activity#com.hxsn.ssk.activity.VersionInfoActivity
+ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:149:9-152:66
+	android:screenOrientation
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:152:13-64
+	android:name
+		ADDED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:150:13-57
+uses-sdk
+INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [hxsn4:ssk_library:unspecified] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\hxsn4\ssk_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] E:\androidStudioWork\hxsn4\sn-ssk-v1.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\androidStudioWork\hxsn4\sn-ssk-v1.0\src\main\AndroidManifest.xml:2:1-155:12 reason: hxsn.com.library requested WRITE_EXTERNAL_STORAGE

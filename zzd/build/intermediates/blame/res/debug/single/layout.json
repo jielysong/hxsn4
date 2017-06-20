@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\in_title.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\in_title.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_remote_playback_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_remote_playback_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\add_camera_by_series_number_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\add_camera_by_series_number_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_playback_list_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_playback_list_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_play.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_test_play.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\device_setting_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\device_setting_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\in_bottom_menu.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\in_bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_connecting_status_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_connecting_status_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ezcamera_list.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_ezcamera_list.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_talkback_wnd.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_talkback_wnd.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ezupgrade_device.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_ezupgrade_device.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_setting.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_system_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\select_camera_no_dialog_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\select_camera_no_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wen.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_wen.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_prepare_step_on.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_prepare_step_on.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_operate_bar.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_operate_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome1.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_welcome1.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_operate_bar2.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_operate_bar2.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_warnning.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_warnning.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_message_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_message_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_njhui2.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_njhui2.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\verifycode_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\verifycode_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ezopen_realplay_operate_bar2.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ezopen_realplay_operate_bar2.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\loading_text_view.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\loading_text_view.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_problem.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_send_problem.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\password_error_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\password_error_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_realplay_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_realplay_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_message_list_section.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_message_list_section.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ezopen_realplay_operate_bar.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ezopen_realplay_operate_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplayer_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplayer_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_reset.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_reset.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_connecting.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_connecting.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ssk1.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_ssk1.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nqzhan4.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_nqzhan4.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\list_section.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\list_section.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_realplay_quality_items.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_realplay_quality_items.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_net_config.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_net_config.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\auto_wifi_reset_introduce.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\auto_wifi_reset_introduce.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_quality_wnd.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_quality_wnd.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_load_progress.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\dialog_load_progress.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_version_info.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_version_info.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\cameralist_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\cameralist_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\section_list_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\section_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\capture_activity.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\capture_activity.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_text.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_set_text.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\cameralist_small_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\cameralist_small_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_play_control.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_play_control.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\item_topic.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\wait_dialog.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\wait_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_full_operate_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_full_operate_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wen3_2.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_wen3_2.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wen3.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_wen3.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\no_device_more_footer.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\no_device_more_footer.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\item_wen.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\item_wen.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\select_camera_no_dialog.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\select_camera_no_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_prompt_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_loading_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_loading_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\modify_device_name_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\modify_device_name_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\network_error_retry_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\network_error_retry_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine5.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\fragment_mine5.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_footer.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\pull_to_refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_realplay_prompt_layout.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_realplay_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_message_list_item.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_message_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\ez_message_image_page.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\ez_message_image_page.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_quality_items.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_quality_items.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\realplay_ptz_wnd.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\realplay_ptz_wnd.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\item_version_info.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\item_version_info.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\device_video_encrypt_dialog.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\device_video_encrypt_dialog.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\no_more_footer.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\no_more_footer.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_edit.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\layout\\activity_password_edit.xml"
+    }
+]

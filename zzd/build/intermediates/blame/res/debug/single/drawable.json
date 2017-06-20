@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_point.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\bg_point.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\small_button_cameralist.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\small_button_cameralist.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_hd_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_hd_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\push_close_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\push_close_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_vertical_more_dark_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_title_vertical_more_dark_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_previously_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_previously_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_ptz_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_ptz_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\point_red.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\point_red.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_close_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_close_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\preview_down_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\preview_down_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_stop_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_stop_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\check_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\check_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_seekbar_style.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_seekbar_style.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\style_wen.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\style_wen.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_auto_blue_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\btn_auto_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\auto_wifi_wait.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\auto_wifi_wait.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\interface_call_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\interface_call_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_border_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\message_border_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\search_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_flunet_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_flunet_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_video_now_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_video_now_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\border_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\border_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\tip_textview_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\tip_textview_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\name_del_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\name_del_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ckb_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ckb_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_exit_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_exit_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_red.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\bg_shape_red.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_quality_color_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_quality_color_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_balanced_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_balanced_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_auto_red_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\btn_auto_red_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\style_ssk.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\style_ssk.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_play_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_play_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\preview_enlarge_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\preview_enlarge_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_list_play_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_list_play_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_cal_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_cal_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\point_focured.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\point_focured.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_soundoff_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_soundoff_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_setup_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_title_setup_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\decode_failed_tip_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\decode_failed_tip_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_remote_list_pause_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_remote_list_pause_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\flashlight_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\grouplayout_item_bg_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\grouplayout_item_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\open_cameralist_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\open_cameralist_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\refresh_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\speech_full_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\speech_full_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_refresh_indeterminate.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_refresh_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_btn_r1_retry_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_btn_r1_retry_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_speech_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_speech_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_previously_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_previously_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\connect_wifi_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\connect_wifi_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\exit_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_border_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_border_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_quality_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_quality_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_reaty_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_reaty_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\title_down_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\title_down_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_list_pause_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_list_pause_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_leave_message_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_leave_message_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_cancel_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_title_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_back_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_title_back_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\vertical_preview_stop_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\vertical_preview_stop_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_check_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\playback_check_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\cameralist_item_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\cameralist_item_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_border.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ez_border.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\del_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\del_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_r1_retry_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\btn_r1_retry_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_list_soundon_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_list_soundon_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\cameralist_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\cameralist_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\message_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_smallbtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_smallbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_fullscreen_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\horizontal_fullscreen_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\stopbtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\stopbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_roate_drawable.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\circle_roate_drawable.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\open_cameralist_remotepb_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\open_cameralist_remotepb_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_voice_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\speech.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\speech.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\equipment_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\equipment_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ezopen_vertical_preview_sound_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ezopen_vertical_preview_sound_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_input_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_title_input_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_stop_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_stop_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_pause_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\login_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\style_mine.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\style_mine.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\read_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\read_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\open_cameralist_alarmlist_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\open_cameralist_alarmlist_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\border_transparent.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\border_transparent.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\register_server_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\register_server_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ptz_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_ptz_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\point_nomal.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\point_nomal.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_text_gray.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\bg_text_gray.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_privacy_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_privacy_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\palyback_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\palyback_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_talkback_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_talkback_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\palyback_close_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\palyback_close_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\my_progress_drawable.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\my_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\display_frame.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\display_frame.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\tiltle_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\tiltle_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_talk_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_talk_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\palyback_video_now_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\palyback_video_now_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\video_quality_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\video_quality_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ptz_turn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ptz_turn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\my_switch_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\my_switch_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\message_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\backbtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\backbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_talk_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_talk_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_item_bg_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\message_item_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\capturebtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\capturebtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_seekbar_thumb.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_rect_bg_qq_group.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\radius_rect_bg_qq_group.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_bigbtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_bigbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\auto_wifi_link_account_bg.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\auto_wifi_link_account_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_back_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\message_back_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_cut_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\playback_cut_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_loading_indeterminate.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\common_loading_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\graybtn_secetor.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\graybtn_secetor.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\open_cameralist_setup_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\open_cameralist_setup_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_soundon_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_soundon_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\cameralist_history_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\cameralist_history_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\leave_message_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\leave_message_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_list_soundoff_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\remote_list_soundoff_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\style_zhan.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\style_zhan.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\vertical_preview_sound_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\vertical_preview_sound_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\playbtn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\playbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_video_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_video_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\fullscreen_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\fullscreen_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\collect_btn_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\collect_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\input_shade.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\input_shade.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_play_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_full_play_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\palyback_previously_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\palyback_previously_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\ezopen_vertical_preview_sound_off_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\ezopen_vertical_preview_sound_off_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_selector.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\play_button_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\zzd\\build\\intermediates\\res\\merged\\debug\\drawable\\style_none.xml",
+        "source": "E:\\androidStudioWork\\hxsn4\\zzd\\src\\main\\res\\drawable\\style_none.xml"
+    }
+]

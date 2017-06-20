@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_light"
+    tools:ignore="HardcodedText"
+    tools:context=".activity.SendQuestActivity">
+
+    <include
+        android:id="@+id/in_title"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        layout="@layout/in_title"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/in_title">
+
+        <EditText
+            android:id="@+id/edt_info"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:paddingLeft="10dp"
+            android:gravity="start"
+            android:paddingRight="5dp"
+            android:background="@color/white"
+            android:textSize="14sp"
+            android:hint="您对专家提的问题"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="活动图片"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/black_text_n"
+            android:textSize="15sp"/>
+
+        <ImageView
+            android:id="@+id/img_add_pic"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:contentDescription="@null"
+            android:background="@drawable/icon_add_big"/>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/txt_send"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="20dp"
+        android:text="发 送"
+        android:gravity="center"
+        android:background="@color/sky_blue"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:id="@+id/line_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        android:visibility="invisible">
+        <TextView
+            android:id="@+id/txt_photograph"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textColor="@color/black_text_n"
+            android:textSize="18sp"
+            android:text="拍照" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="@color/gray_light_n"/>
+
+        <TextView
+            android:id="@+id/txt_picture"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/black_text_n"
+            android:text="相片" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="@color/gray_light_n"/>
+        <TextView
+            android:id="@+id/txt_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/black_text_n"
+            android:text="取消" />
+    </LinearLayout>
+
+</RelativeLayout>

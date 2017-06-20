@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dm">
+        <item>平原</item>
+        <item>丘陵</item>
+        <item>中山</item>
+    </string-array>
+    <string-array name="tz">
+        <item>轻壤</item>
+        <item>中壤</item>
+        <item>重壤</item>
+    </string-array>
+    <color name="alpha_00">#00000000</color>
+    <color name="app_background">#fff6f6f6</color>
+    <color name="background">#e5e5e5</color>
+    <color name="bar02_background">#ffeeeeee</color>
+    <color name="bar02_num_white">#ffffffff</color>
+    <color name="bar02_title_black">#ff000000</color>
+    <color name="bar_title_white">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_light">#606060</color>
+    <color name="black_text_n">#545454</color>
+    <color name="black_text_s">#666666</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_dark">#00008B</color>
+    <color name="bottom_lwhite">#66ffffff</color>
+    <color name="bottom_white">#ffffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_1">#a2c169</color>
+    <color name="color_2">#b4c169</color>
+    <color name="color_3">#ebc44d</color>
+    <color name="color_4">#e18c67</color>
+    <color name="color_5">#f1665f</color>
+    <color name="color_6">#c173e1</color>
+    <color name="color_7">#4991c1</color>
+    <color name="color_8">#3f83c4</color>
+    <color name="color_9">#66b6ad</color>
+    <color name="content_item_card_text">#ffff6600</color>
+    <color name="content_item_text">#ff666666</color>
+    <color name="content_white">#ffffffff</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="cyan_blue">#23beb0</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="gary_backgound">#F0F0F0</color>
+    <color name="gold">#b89766</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="gray_dark">#808080</color>
+    <color name="gray_light">#f0f0f0</color>
+    <color name="gray_light_n">#e5e5e5</color>
+    <color name="gray_light_s">#fafafa</color>
+    <color name="green">#00FF00</color>
+    <color name="green_dark">#006400</color>
+    <color name="green_light">#00D400</color>
+    <color name="green_none">#1ba158</color>
+    <color name="grey21">#363636</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="item_line1">#ffe8e8e8</color>
+    <color name="item_line2">#ffffffff</color>
+    <color name="light_blue">#aadeec</color>
+    <color name="light_orange">#fcb75c</color>
+    <color name="lucensy">#00000001</color>
+    <color name="orange">#f7911b</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="pink_light">#FFB6C1</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="purple">#800080</color>
+    <color name="red">#fe0202</color>
+    <color name="red_dart">#f23d3d</color>
+    <color name="red_light">#fe4d3d</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="sky_blue">#17cbdb</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="text_gray">#4F4F4F</color>
+    <color name="trans">#50000000</color>
+    <color name="translucency">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent1">#00000000</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_light">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_light">#FFFFE0</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom_tab_font_size">14.0sp</dimen>
+    <dimen name="bottom_tab_padding_drawable">0.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">2.0dip</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <string name="app_name">测土配方</string>
+    <string name="btn_back">后退</string>
+    <string name="btn_save">保存结果</string>
+    <string name="btn_share">分享</string>
+    <string name="downloading">正在下载</string>
+    <string name="error_msg">程序配置错误</string>
+    <string name="exit_msg">再按一次返回键退出程序</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sms_manual">短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明短信使用说明</string>
+    <string name="sms_tip">短信使用说明</string>
+    <string name="soil_component">土壤养分测试数据：</string>
+    <string name="tab_text01">地图</string>
+    <string name="tab_text02">养分</string>
+    <string name="tab_text03">二维码</string>
+    <string name="tab_text04">区域</string>
+    <string name="tab_text05">更多</string>
+    <string name="title_activity_crop_select">CropSelectActivity</string>
+    <string name="title_activity_ctmap">CTMapActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="update_download_fail">下载失败</string>
+    <string name="update_download_success">下载成功，点击安装</string>
+    <string name="update_software_message">发现新版本,建议立即更新使用.</string>
+    <string name="update_software_negative">取消</string>
+    <string name="update_software_positive">更新</string>
+    <string name="update_software_title">软件升级</string>
+    <string name="updating">更新中</string>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!--activity无黑边-->
+        <item name="android:windowIsFloating">true</item>
+        <!--activity可滑动-->
+        <item name="android:windowIsTranslucent">false</item>
+        <!--activity透明-->
+        <item name="android:windowNoTitle">true</item>
+        <!--activity无标题-->
+        <item name="android:windowBackground">@null</item>
+        <!-- <item name="android:windowCloseOnTouchOutside">true</item>activity点击空白部分不消失  -->
+    </style>
+    <style name="item_line1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:background">@color/item_line1</item>
+    </style>
+    <style name="item_line2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:background">@color/item_line2</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:textSize">@dimen/bottom_tab_font_size</item>
+        <item name="android:textColor">@drawable/bottom_textcolor</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/bottom_background</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="sms_manual_style" parent="@style/yangfen_item_text">
+        <item name="android:gravity">center_vertical|left</item>
+    </style>
+    <style name="top_bar02_icon_image">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">15.0dip</item>
+        <item name="android:layout_height">15.0dip</item>
+    </style>
+    <style name="top_bar02_icon_layout">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">20.0dip</item>
+        <item name="android:layout_height">20.0dip</item>
+    </style>
+    <style name="top_bar02_icon_text">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textColor">@color/bar02_num_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">15.0dip</item>
+        <item name="android:layout_height">15.0dip</item>
+    </style>
+    <style name="top_bar02_line_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">8.0dip</item>
+        <item name="android:background">@drawable/top_bar02</item>
+    </style>
+    <style name="top_bar02_title">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/bar02_title_black</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">180dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="top_bar_title">
+        <item name="android:textSize">28dip</item>
+        <item name="android:textColor">@color/bar_title_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">140dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="yangfen_item_text">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/content_item_text</item>
+        <item name="android:gravity">center_vertical|right</item>
+    </style>
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+
+
+    <style name="loading_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!--Dialog的windowFrame框为无 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否漂现在activity上-->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 是否半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- dim:模糊的 阴影效果 -->
+    </style>
+
+
+    <style name="main_tab_bottom">
+
+        <item name="android:textColor">@drawable/bottom_textcolor</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/bottom_background</item>
+
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+
+        <item name="android:layout_weight">1.0</item>
+    </style>
+
+    <style name="top_bar_title">
+        <item name="android:textSize">28dip</item>
+        <item name="android:textColor">@color/bar_title_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">140dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="top_bar02_title">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/bar02_title_black</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">180dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="top_bar02_line_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">8.0dip</item>
+        <item name="android:background">@drawable/top_bar02</item>
+    </style>
+
+    <style name="top_bar02_icon_layout">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">20.0dip</item>
+        <item name="android:layout_height">20.0dip</item>
+    </style>
+
+    <style name="top_bar02_icon_image">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">15.0dip</item>
+        <item name="android:layout_height">15.0dip</item>
+    </style>
+
+    <style name="top_bar02_icon_text">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textColor">@color/bar02_num_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">15.0dip</item>
+        <item name="android:layout_height">15.0dip</item>
+    </style>
+
+    <style name="yangfen_item_text">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/content_item_text</item>
+        <item name="android:gravity">center_vertical|right</item>
+    </style>
+
+    <style name="sms_manual_style" parent="@style/yangfen_item_text">
+        <item name="android:gravity">center_vertical|left</item>
+    </style>
+
+    <style name="item_line1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:background">@color/item_line1</item>
+    </style>
+
+    <style name="item_line2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:background">@color/item_line2</item>
+    </style>
+
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!--activity无黑边-->
+        <item name="android:windowIsFloating">true</item>
+        <!--activity可滑动-->
+        <item name="android:windowIsTranslucent">false</item>
+        <!--activity透明-->
+        <item name="android:windowNoTitle">true</item>
+        <!--activity无标题-->
+        <item name="android:windowBackground">@null</item>
+        <!-- <item name="android:windowCloseOnTouchOutside">true</item>activity点击空白部分不消失  -->
+    </style>
+
+</resources>

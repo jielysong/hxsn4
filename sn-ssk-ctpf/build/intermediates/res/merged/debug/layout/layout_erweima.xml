@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/app_background" >
+
+    <!--  一道杠 -->
+    <RelativeLayout android:id="@+id/layout_yf_bar"
+    	android:layout_width="match_parent"
+    	android:layout_height="40.0dip"
+    	android:background="@color/bar02_background">
+    	<TextView android:id="@+id/text_title_one"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="match_parent"
+    	    android:text="二维码地块养分查询"
+    	    style="@style/top_bar02_title"/>
+	</RelativeLayout>
+	<RelativeLayout style="@style/top_bar02_line_layout"></RelativeLayout>
+	
+	<EditText android:id="@+id/et_erweima"
+	    android:layout_width="280.0dip"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:layout_marginTop="20.0dip"
+	    android:drawableLeft="@drawable/ss01"
+	    android:singleLine="true"
+	    android:hint="请输入地块养分编号"
+	    android:textColorHint="#acacac"/>
+	<RelativeLayout android:layout_width="220.0dip" android:layout_height="wrap_content"
+	    android:layout_marginTop="10.0dip"
+	    android:layout_gravity="center_horizontal">
+	    <Button android:id="@+id/btn_shaomiao"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:background="@drawable/btn_sm"/>
+	    <Button android:id="@+id/btn_chaxun_ewm"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:background="@drawable/btn_cx"/>
+	</RelativeLayout>
+	
+	<View android:layout_width="match_parent"
+	    android:layout_height="10.0dip"/>
+	<View style="@style/item_line1"/>
+	<View style="@style/item_line2"/>
+	
+	<ListView android:id="@+id/list_dkbh"
+	    android:layout_width="match_parent"
+	    android:layout_height="0.0dip"
+	    android:layout_weight="1.0"
+	    android:fadingEdge="none"
+	    android:cacheColorHint="#00000000"></ListView>
+	
+	<TextView android:id="@+id/text_alert_erweima"
+	    android:layout_width="280.0dip"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10.0dip"
+	    android:layout_gravity="center_horizontal"
+	    android:gravity="center"
+	    android:visibility="gone"
+	    android:textColor="#ff0000"
+	    android:textSize="20.0dip"
+	    android:text="对不起，未查找到信息"/>
+
+</LinearLayout>

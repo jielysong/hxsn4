@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:orientation="vertical" >
+
+    <!-- 一道杠 -->
+
+    <RelativeLayout
+        android:id="@+id/layout_yf_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/bar02_background" >
+
+        <TextView
+            android:id="@+id/text_title_one"
+            style="@style/top_bar02_title"
+            android:text="选择施肥用料" />
+
+        <FrameLayout
+            android:id="@+id/layout_num4"
+            style="@style/top_bar02_icon_layout"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5.0dip" >
+
+            <ImageView
+                style="@style/top_bar02_icon_image"
+                android:background="@drawable/num1" />
+
+            <TextView
+                style="@style/top_bar02_icon_text"
+                android:text="4" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/layout_num3"
+            style="@style/top_bar02_icon_layout"
+            android:layout_toLeftOf="@id/layout_num4" >
+
+            <ImageView
+                style="@style/top_bar02_icon_image"
+                android:background="@drawable/num2" />
+
+            <TextView
+                style="@style/top_bar02_icon_text"
+                android:text="3" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/layout_num2"
+            style="@style/top_bar02_icon_layout"
+            android:layout_toLeftOf="@id/layout_num3" >
+
+            <ImageView
+                style="@style/top_bar02_icon_image"
+                android:background="@drawable/num1" />
+
+            <TextView
+                style="@style/top_bar02_icon_text"
+                android:text="2" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/layout_num1"
+            style="@style/top_bar02_icon_layout"
+            android:layout_toLeftOf="@id/layout_num2" >
+
+            <ImageView
+                style="@style/top_bar02_icon_image"
+                android:background="@drawable/num1" />
+
+            <TextView
+                style="@style/top_bar02_icon_text"
+                android:text="1" />
+        </FrameLayout>
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/top_bar02_line_layout" >
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="306dp"
+        android:layout_weight="0.98" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/layout_group_difei"
+                    android:layout_width="0.0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/text_qxzpfdf"
+                        android:layout_width="match_parent"
+                        android:layout_height="48.0dip"
+                        android:gravity="center_vertical"
+                        android:padding="5.0dip"
+                        android:text="请选底肥肥料"
+                        android:textColor="@color/content_item_text"
+                        android:textSize="15.0dip" />
+
+                    <View style="@style/item_line1" />
+
+                    <View style="@style/item_line2" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_group_zuifei"
+                    android:layout_width="0.0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/text_qxzzffl"
+                        android:layout_width="match_parent"
+                        android:layout_height="48.0dip"
+                        android:gravity="center_vertical"
+                        android:padding="5.0dip"
+                        android:text="请选追肥肥料"
+                        android:textColor="@color/content_item_text"
+                        android:textSize="15.0dip" />
+
+                    <View style="@style/item_line1" />
+
+                    <View style="@style/item_line2" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="24.0dip" />
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp" >
+
+        <Button
+            android:id="@+id/btn_sfyl"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_alignParentLeft="true"
+            android:textSize="20sp"
+            android:text="下一步"
+            android:textColor="@color/bar02_num_white"
+            android:background="@drawable/button_bck" />
+
+        <Button
+            android:id="@+id/btn_back_sfyl"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/button_bck"
+            android:text="@string/btn_back"
+            android:textColor="@color/bar02_num_white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</LinearLayout>

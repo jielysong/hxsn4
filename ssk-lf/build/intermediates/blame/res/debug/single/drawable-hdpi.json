@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_warn.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_warn.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_configuration.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_configuration.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_illu.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_illu.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_temperater.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_temperater.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_soil.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_soil.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_return.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_return.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_big.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_add_big.png"
+    },
+    {
+        "merged": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_humidity.png",
+        "source": "E:\\androidStudioWork\\hxsn4\\ssk-lf\\src\\main\\res\\drawable-hdpi\\icon_humidity.png"
+    }
+]

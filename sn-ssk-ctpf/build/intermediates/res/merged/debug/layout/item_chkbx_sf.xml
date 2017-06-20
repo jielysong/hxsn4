@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="36.0dip">
+    <CheckBox android:id="@+id/chkbx_01"
+        android:layout_width="30.0dip"
+        android:layout_height="30.0dip"
+        android:layout_marginLeft="20.0dip"
+        android:button="@drawable/item_checkbox_sf"
+        android:layout_centerVertical="true"/>
+    <TextView android:id="@+id/text_chkbx_title" 
+        android:layout_width="match_parent"
+        android:layout_height="36.0dip"
+        android:layout_toRightOf="@id/chkbx_01"
+        android:gravity="center_vertical"
+        android:paddingRight="5.0dip"
+        android:textColor="@color/content_item_text"
+        android:textSize="15.0dip"
+        android:text="小麦撒可富配方肥1号（21-11-8）"/>
+</RelativeLayout>

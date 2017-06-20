@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:orientation="vertical" >
+
+    <!-- 一道杠 -->
+
+    <RelativeLayout
+        android:id="@+id/layout_yf_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/bar02_background" >
+
+        <TextView
+            android:id="@+id/text_title_one"
+            style="@style/top_bar02_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="参数表配置" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/top_bar02_line_layout" >
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="48.0dip"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/yangfen_item_text"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2.0"
+            android:text="地区:" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="173dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5.0dip"
+                android:layout_weight="3.0" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View style="@style/item_line1" />
+
+    <View style="@style/item_line2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48.0dip" >
+
+        <TextView
+            style="@style/yangfen_item_text"
+            android:layout_width="0.0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2.0"
+            android:text="数据库地址:" />
+
+        <EditText
+            android:id="@+id/et_shujuku_jjd"
+            android:layout_width="0.0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="5.0dip"
+            android:layout_weight="3.0"
+            android:text="http://192.168.12.94:8998"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <View style="@style/item_line1" />
+
+    <View style="@style/item_line2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48.0dip" >
+
+        <TextView
+            style="@style/yangfen_item_text"
+            android:layout_width="0.0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2.0"
+            android:text="短信号码:" />
+
+        <TextView
+            android:id="@+id/txt_phone"
+            android:layout_width="0.0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="5.0dip"
+            android:gravity="start|center_vertical"
+            android:textColor="@color/black_text_n"
+            android:textSize="15sp"
+            android:layout_weight="3.0" />
+    </LinearLayout>
+
+    <View style="@style/item_line1" />
+
+    <View style="@style/item_line2" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:id="@+id/txt1"
+            style="@style/yangfen_item_text"
+            android:layout_width="150dip"
+            android:layout_height="match_parent"
+            android:gravity="right|center"
+            android:text="跳出肥料选择:" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/txt1"
+            android:orientation="horizontal" >
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="是"
+                android:layout_weight="1.0"
+                android:textColor="#000000" >
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="否"
+                android:layout_weight="1.0"
+                android:textColor="#000000" >
+            </RadioButton>
+        </RadioGroup>
+    </RelativeLayout>
+
+    <View style="@style/item_line1" />
+
+    <View style="@style/item_line2" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:id="@+id/txt2"
+            style="@style/yangfen_item_text"
+            android:layout_width="150dip"
+            android:layout_height="match_parent"
+            android:gravity="right|center"
+            android:text="进行追肥平衡:" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/txt2"
+            android:orientation="horizontal" >
+            <RadioButton
+                android:id="@+id/radio3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="是"
+                android:layout_weight="1.0"
+                android:textColor="#000000" >
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radio4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="否"
+                android:layout_weight="1.0"
+                android:textColor="#000000" >
+            </RadioButton>
+        </RadioGroup>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_config"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/button_bck_bg"
+        android:text="保存并重启"
+        android:textSize="16sp"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green_none">#1ba158</color>
+    <!-- 农业绿 -->
+    <color name="green_dark">#006400</color>
+    <!-- 深绿 -->
+    <color name="green_light">#00D400</color>
+    <!-- 浅绿 -->
+    <color name="green">#ff008000</color>
+    <!-- 绿色 -->
+    <color name="gray_light">#f0f0f0</color>
+    <color name="gray_light_n">#e5e5e5</color>
+    <color name="gray_light_s">#fafafa</color>
+    <color name="gray">#a1a1a1</color>
+    <!-- 灰色 -->
+    <color name="gray_dark">#808080</color>
+    <color name="black">#000000</color>
+    <color name="black_text_s">#666666</color>
+    <color name="black_text_n">#545454</color>
+    <color name="black_light">#606060</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="white_light">#F5F5F5</color>
+    <!-- 白色 -->
+    <color name="yellow_light">#FFFFE0</color>
+    <!-- 亮黄色 -->
+    <color name="yellow">#FFFF00</color>
+    <!-- 黄色 -->
+    <color name="snow">#FFFAFA</color>
+    <!-- 雪白色 -->
+    <color name="gold">#FFD700</color>
+    <!-- 金色 -->
+    <color name="pink">#FFC0CB</color>
+    <!-- 粉红色 -->
+    <color name="pink_light">#FFB6C1</color>
+    <!-- 亮粉红色 -->
+    <color name="orange">#f7911b</color>
+    <!-- 橙色 -->
+    <color name="red">#FF0000</color>
+    <!-- 橙色 -->
+    <color name="red_light">#fe4d3d</color>
+    <!-- 橙色 -->
+    <color name="red_dart">#f23d3d</color>
+    <color name="sky_blue">#17cbdb</color>
+    <!-- 天蓝色 -->
+    <color name="cyan_blue">#23beb0</color>
+    <!-- 天蓝色 -->
+    <color name="light_blue">#aadeec</color>
+    <!-- 亮蓝色 -->
+    <color name="purple">#800080</color>
+    <!-- 紫色 -->
+    <color name="blue">#0000FF</color>
+    <!-- 蓝色 -->
+    <color name="blue_dark">#00008B</color>
+    <!-- 暗蓝色 -->
+    <color name="color_1">#a2c169</color>
+    <!-- 暗蓝色 -->
+    <color name="color_2">#b4c169</color>
+    <!-- 暗蓝色 -->
+    <color name="color_3">#ebc44d</color>
+    <!-- 暗蓝色 -->
+    <color name="color_4">#e18c67</color>
+    <!-- 暗蓝色 -->
+    <color name="color_5">#f1665f</color>
+    <!-- 暗蓝色 -->
+    <color name="color_6">#c173e1</color>
+    <!-- 暗蓝色 -->
+    <color name="color_7">#4991c1</color>
+    <!-- 暗蓝色 -->
+    <color name="color_8">#3f83c4</color>
+    <!-- 暗蓝色 -->
+    <color name="color_9">#66b6ad</color>
+    <!-- 暗蓝色 -->
+    <color name="gary_backgound">#F0F0F0</color>
+
+
+
+
+
+
+
+    <!-- common -->
+    <color name="mode_bg">#88000000</color>
+    <color name="black_bg">#000000</color>
+    <color name="shadow">#80000000</color>
+    <color name="dark_bg_70p">#bb000000</color>
+    <color name="dark_bg_20p">#33000000</color>
+    <color name="common_bg">#f0f0f3</color>
+    <color name="title_text">#333333</color>
+    <color name="title_line">#b2b2b2</color>
+    <color name="common_line">#c8c7cc</color>
+    <color name="common_text">#333333</color>
+    <color name="common_text_sel">#3aa3ee</color>
+    <color name="common_sub_text">#888888</color>
+    <color name="common_hint_text">#adadad</color>
+    <color name="setting_hint_text">#adadad</color>
+    <color name="state_normal_text">#71c211</color>
+    <color name="state_abnormal_text">#eb0303</color>
+    <color name="state_off_text">#adadad</color>
+    <color name="bar_text">#676767</color>
+    <color name="bar_text_sel">#3aa3ee</color>
+    <color name="page_bg_color">#f8f8f8</color>
+    <color name="pureblack">#ff000000</color>
+
+    <color name="black_text">#333333</color>
+
+    <color name="cameralist_gray">#e3e3e3</color>
+    <color name="page_change_gray">#8f8f8f</color>
+    <color name="gray_text">#adadad</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="translucent_black">#c0000000</color>
+    <color name="text_black">#353535</color>
+
+    <color name="yahei">#626262</color>
+    <color name="articletext_backcolor">#f7f7f7</color>
+    <color name="trans_bg_color">#c0ffffff</color>
+    <color name="gray_bg">#ffe5e7e9</color>
+    <color name="unopen">#748dac</color>
+    <!-- scan color -->
+    <color name="viewfinder_frame">#929292</color>
+    <color name="viewfinder_laser">#fe5600</color>
+    <color name="viewfinder_mask">#000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <!-- camera -->
+    <color name="transparent_bg">#00000000</color>
+    <!-- records -->
+    <color name="record_normal">#8cc6d7</color>
+    <color name="record_alarm">#ff7c59</color>
+    <color name="record_point">#bbbbbb</color>
+    <color name="record_time">#919191</color>
+    <color name="record_osd">#ff4300</color>
+    <!-- background -->
+    <color name="application_bg">@color/common_bg</color>
+    <color name="table_value">#7f7f7f</color>
+    <color name="loading_text">#686868</color>
+    <color name="realplay_loading_text">#7d755d</color>
+    <color name="grey">#777777</color>
+    <!-- 橘色字体 -->
+    <color name="orange_text">#df2d10</color>
+    <color name="yellow_text">#ff6600</color>
+    <color name="blue_text">#39a4cb</color>
+    <color name="green_text">#3fb895</color>
+    <!-- tab页面 -->
+    <color name="tab_color">#f9f9f9</color>
+    <color name="tab_sel_color">#1e1e1e</color>
+    <color name="tip_bg">#fff7e0</color>
+    <color name="tip_color">#a85f03</color>
+    <color name="event_message_from_tv">#818181</color>
+    <color name="event_message_play_btn">#eeeeee</color>
+    <!-- 画的线框的颜色 -->
+    <color name="line_color">#bebdbc</color>
+    <color name="fragment_line_color">#e6e7e8</color>
+    <color name="upgrade_orange">#fd8f06</color>
+    <color name="upgrade_green">#71c211</color>
+    <color name="upgrade_red">#ff2222</color>
+    <color name="upgrade_gray">#888888</color>
+    <color name="version_gray">#b4b4b4</color>
+    <color name="reg_deal_text_bule">#007aff</color>
+    <color name="share_green">#6ac949</color>
+    <color name="share_bule">#56abff</color>
+    <color name="share_red">#fc6969</color>
+    <color name="share_tip_red">#fe4343</color>
+
+    <drawable name="translucent">#00000000</drawable>
+
+    <!-- wifi一键配置 -->
+    <color name="auto_wifi_red">#fe4343</color>
+    <color name="auto_wifi_blue">#40a2ee</color>
+    <color name="auto_tip_text">#888888</color>
+    <color name="auto_blue_text">#2554bd</color>
+
+    <!-- R1文件上传 -->
+    <color name="active_color">#f08300</color>
+    <color name="normal_color">#6c6b6b</color>
+    <color name="upload_sel_count">#ff6c00</color>
+    <color name="progress_back">#646669</color>
+    <color name="progress_select">#58c01f</color>
+    <color name="r1_item_bg">#dddddd</color>
+    <color name="color_r1_cancel_color">#ff6969</color>
+    <color name="divider">#c7c7c7</color>
+    <!-- 消息 -->
+    <color name="message_bg">#fff</color>
+    <color name="message_button_text">#555</color>
+    <color name="play_translucent_bg">#c0000000</color>
+    <color name="channel_item_bg">#47a3ff</color>
+    <color name="leavemessage_text_color">#3aa3ee</color>
+    <color name="leavemessage_time_text_color">#adadad</color>
+    <color name="leavemessage_gray">#888888</color>
+    <!-- 我的 -->
+
+    <color name="remotefile_timebar_color">#39a3ed</color>
+    <color name="remotefile_timebar_alarm_color">#ff8261</color>
+    <color name="remotefile_line_color">#fe2b2b</color>
+
+    <!-- 回放列表 -->
+    <color name="remotelist_item_select">#249bff</color>
+    <color name="remotelist_item_duration_text_color">#c6c6c6</color>
+
+    <!-- 引导和登录 -->
+    <color name="login_line_color">#e0e0e3</color>
+    <color name="a1_blue_color">#1ea1ff</color>
+    <color name="a1_orange_color">#ff7e00</color>
+    <color name="my_list_deviver">#b2b2b2</color>
+    <color name="corsor_color">#adadad</color>
+    <color name="quality_focused_color">#448cf3</color>
+    <color name="source_detection_btn_color">#48a9fb</color>
+    <color name="preview_quality_color">#3eaefa</color>
+
+    <color name="more_color">#3ea6ef</color>
+    <color name="scan_yellow">#e56b19</color>
+    <color name="tv_my_blue">#1b9ee2</color>
+    <color name="auto_wifi_tip_red">#FF4000</color>
+    <color name="add_title_text_color">#666666</color>
+    <color name="help_link">#527ddb</color>
+    <color name="opensdk_cameralist_bg">#f0f0f1</color>
+    <color name="on_off_text_selector">#3ea6ef</color>
+    <color name="grouplayout_item_bg_sel">#f3f4f5</color>
+
+    <!-- common -->
+    <color name="c1">#f37f4c</color>
+    <color name="c2">#333</color>
+    <color name="c3">#666</color>
+    <color name="c4">#8d8d8d</color>
+    <color name="c5">#999</color>
+    <color name="c6">#b7b7b7</color>
+    <color name="c7">#cacaca</color>
+    <color name="c8">#e1e1e1</color>
+    <color name="c9">#f4f4f4</color>
+    <color name="c10">#ca511c</color>
+    <color name="c11">#f9f9f9</color>
+    <color name="ez_c1">#1E90FF</color>
+
+</resources>

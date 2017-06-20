@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_light"
+
+    tools:context="com.hxsn.ssk.activity.AboutUsActivity"
+    tools:ignore="HardcodedText">
+
+    <include
+        android:id="@+id/in_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        layout="@layout/in_title"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="1、产品简介"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="      庄络“随时看”，又称农业智能温度仪。可以实时感知设施环境空气温度的变化，并通过GPRS网络自动将数据上传到云端的大数据云服务平台，然后利用智能手机客户端——随时看App，可随时随地查看实时监测气温数据，还可以查看气温当日变化曲线，掌握气温变化的规律，该产品还提供气温高低报警，当气温达到设置的阈值时，手机会接到报警信息，提醒您采取调温措施。"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="2、主要功能"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.1 随时看"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="       通过【随时看】功能，可实时查看温室大棚的气温监测数据值，还包括当日气温变化曲线、报警预警信息、历史数据，以及报警预警消息通知功能等。
+此外，APP还具有背景颜色变化功能，随时温度的变化，数据展示背景会显示不同的颜色。当气温适宜时，数据背景显示绿色；当气温偏高时，显示红色背景；当气温偏低时显示蓝色背景。如下图所示，大棚气温偏高。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_ssk1"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/ssk1"/>
+
+                <ImageView
+                    android:id="@+id/img_ssk2"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/ssk2"/>
+
+                <ImageView
+                    android:id="@+id/img_ssk3"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/ssk3"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.2 农事汇"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="利用该功能可随时查看行业新闻、农业技术、政策法规、市场行情等信息。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_nsh1"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/nsh"/>
+
+                <ImageView
+                    android:id="@+id/img_nsh2"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/nsh1"/>
+
+                <ImageView
+                    android:id="@+id/img_nsh3"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/nsh2"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.3 问专家"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="         通过该功能，您可以查看、发布在种植生产过程中遇到的种植技术问题给远程的农机专家，远程专家会为您诊断、解答、回复。发布的问题可以是文字，也可以是拍照图片。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginLeft="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_wen1"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/wen"/>
+
+                <ImageView
+                    android:id="@+id/img_wen2"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@mipmap/tiwen"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.4 农情站"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="         APP具有农情推送功能，利用该功能您可随时接收，并浏览由平台为您推送农情警情信息。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginLeft="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_nqz"
+                    android:layout_width="115dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/wen"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.5 我的"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="        通过【我的】功能，您可以进行个人信息设置，可以修改登录密码，以及退出APP。说明：当您【退出】APP时，将无法收到由平台给您推送的大棚气温报警信息、预警信息，以及农情信息。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_mine"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/mine"/>
+
+                <ImageView
+                    android:id="@+id/img_setting"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/setting"/>
+
+                <ImageView
+                    android:id="@+id/img_modify"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/modifykey"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="3、技术支持"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:lineSpacingMultiplier="1.5"
+                android:textColor="@color/gray_dark"
+                android:text="      （1）【种植登记】在初次使用APP或种植作物发生改变时，请联系客户人员为您配置或修改种植作物信息，以便为您提供个性化服务。
+\n        （2）【报警设置】在初次使用APP或种植作物发生改变时，请联系客户人员为您定制适合您种植作物的温室环境报警、预警参数配置，以便系统平台为您推送种植环境报警、预警信息。
+\n        （3）【其它情况】在您使用产品过程中，遇到任何有关产品使用与操作的问题可随时联系客服人员。
+"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="4、联系我们"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="      客服电话：0316-2193151-810，13833677659"
+                android:textSize="14sp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="55dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <ImageView
+        android:id="@+id/img_big"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/ssk1"
+        android:visibility="gone"/>
+
+</FrameLayout>

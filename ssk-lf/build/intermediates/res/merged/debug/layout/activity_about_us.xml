@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_light"
+    tools:ignore="HardcodedText">
+
+    <include
+        android:id="@+id/in_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        layout="@layout/in_title"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="1、产品简介"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="      廊坊气象随时看，可以实时感知设施环境空气温度，空气湿度，土壤温度，光照的变化，并通过GPRS网络自动将数据上传到云端的大数据云服务平台，然后利用智能手机客户端——气象随时看App，可随时随地查看实时监测空气温度，空气湿度，土壤温度，光照数据，还可以查看空气温度，空气湿度，土壤温度，光照当日变化曲线，掌握数据变化的规律，该产品还提供阈值提醒，数据超过阈值，提醒您采取措施。"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="2、主要功能"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.1 随时看"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="       通过【随时看】功能，可实时查看温室大棚的空气温度，空气湿度，土壤温度，光照监测数据值，还包括当日气温变化曲线、历史数据能等。
+此外，APP还具有背景颜色变化功能，随时温度的变化，数据展示背景会显示不同的颜色。当空气温度，空气湿度，土壤温度，光照适宜时，数据背景显示绿色；当空气温度，空气湿度，土壤温度，光照偏高时，显示红色背景；当空气温度，空气湿度，土壤温度，光照偏低时显示蓝色背景。如下图所示，大棚气温偏高。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_ssk1"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/high"/>
+
+                <ImageView
+                    android:id="@+id/img_ssk2"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/normal"/>
+
+                <ImageView
+                    android:id="@+id/img_ssk3"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/low"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.2 农事汇"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="利用该功能可随时查看行业新闻、农业技术、政策法规、市场行情等信息。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_nsh1"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/nsh"/>
+
+                <ImageView
+                    android:id="@+id/img_nsh2"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/nsh1"/>
+
+                <ImageView
+                    android:id="@+id/img_nsh3"
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@mipmap/nsh2"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.3 农情站"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="         APP具有农情推送功能，利用该功能您可随时接收，并浏览由平台为您推送农情警情信息。"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginLeft="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_nqz"
+                    android:layout_width="115dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/nqz"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_text_n"
+                android:layout_marginTop="5dp"
+                android:text="   2.4 病虫害"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/gray_dark"
+                android:lineSpacingMultiplier="1.5"
+                android:text="         病虫害功能展示了黄瓜、番茄、莲藕不同茬在不同物候期可能感染的病虫害，用户可以选择农作物，茬期，物候期，然后展示病虫害列表，易发生的病虫害用红色字体，普通的用橘黄色字体展示，如下图"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@mipmap/img_pest_high"/>
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="204dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:background="@mipmap/img_pest_normal"/>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="55dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</FrameLayout>

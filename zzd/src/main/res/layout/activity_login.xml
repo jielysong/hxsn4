@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_light"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText">
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#1ba158"
+        android:gravity="center"
+        android:text="早知道"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/img_login"
+        android:layout_width="fill_parent"
+        android:layout_height="184dp"
+        android:layout_below="@+id/txt_title"
+        android:background="@drawable/bg_login" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_login"
+        android:layout_marginTop="22dp"
+        android:orientation="vertical">
+
+        shouji<com.hxsn.zzd.ui.MyClearEditText
+            android:id="@+id/edt_username"
+            android:layout_width="330dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/rounded_edittext"
+            android:drawableLeft="@mipmap/user"
+            android:drawablePadding="3dp"
+            android:hint="账号"
+            android:inputType="text"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text=""
+            android:textColorHint="#cccccc">
+
+            <requestFocus />
+        </com.hxsn.zzd.ui.MyClearEditText>
+
+        <com.hxsn.zzd.ui.MyClearEditText
+            android:id="@+id/edt_password"
+            android:layout_width="330dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/rounded_edittext"
+            android:drawableLeft="@mipmap/pass"
+            android:drawablePadding="3dp"
+            android:hint="密码"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text=""
+            android:textColorHint="#cccccc" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="330dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="#1ba158"
+            android:gravity="center"
+            android:text="登录"
+            android:textColor="#ffffff"
+            android:textSize="19sp" />
+
+    </LinearLayout>
+</RelativeLayout>
